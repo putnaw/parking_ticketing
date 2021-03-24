@@ -1,0 +1,38 @@
+[
+  {
+    "tipe": "SUV",
+    "plat_nomor": "D2324FJ",
+    "warna": "Putih",
+    "parking_lot": "A1",
+    "tanggal_masuk": "2021-03-23 19:47:56.179720",
+    "tanggal_keluar": "",
+    "jumlah_bayar": ""
+  },
+  {
+    "tipe": "SUV",
+    "plat_nomor": "B2324IJ",
+    "warna": "Putih",
+    "parking_lot": "A1",
+    "tanggal_masuk": "2021-03-23 19:50:28.168054",
+    "tanggal_keluar": "",
+    "jumlah_bayar": ""
+  },
+  {
+    "tipe": "SUV",
+    "plat_nomor": "B2894J",
+    "warna": "Merah",
+    "parking_lot": "A1",
+    "tanggal_masuk": "2021-03-23 19:53:07.644846",
+    "tanggal_keluar": "",
+    "jumlah_bayar": ""
+  },
+  {
+    "tipe": "SUV",
+    "plat_nomor": "G5745NJ",
+    "warna": "Hitam",
+    "parking_lot": "A1",
+    "tanggal_masuk": "2021-03-23 19:54:01.499456",
+    "tanggal_keluar": "2021-03-24 07:24:14.917751",
+    "jumlah_bayar": ""
+  }
+]
