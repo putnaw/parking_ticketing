@@ -9,6 +9,8 @@
 
 **Run from my API collection from link down below:
 https://www.getpostman.com/collections/973301d04b847d80bfc5
+or
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/973301d04b847d80bfc5)
 
 **List API:
 * /registration : registrasi kendaraan
